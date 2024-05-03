@@ -133,7 +133,7 @@ Here's an example project that fulfills all requirements and would be elligble e
 5. [Conclusions](#conclusions)
 
 ## Introduction
-A simple intro. Example - "Explore my project for the _dbt™ data modeling challenge - Movie Edition_, Hosted by [Paradime](https://www.paradime.io/)! This project dives into the analysis and visualization of Movie and TV data!"
+Explore my project for the _dbt™ data modeling challenge - Movie Edition_, Hosted by [Paradime](https://www.paradime.io/)! This project dives into the analysis and visualization of Movie and TV data!
 
 ## Data Sources and Data Lineage
 My analysis leverages four key data sets:
