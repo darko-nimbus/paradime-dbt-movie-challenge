@@ -132,8 +132,8 @@ Explore my project for the _dbt™ data modeling challenge - Movie Edition_, Hos
 
 ## Data Sources and Data Lineage
 My analysis leverages four key data sets:
-- *data set name #1*
-- *data set name #2*
+- *[omdb_movies](https://github.com/paradime-io/paradime-dbt-movie-challenge/blob/main/models/sources/stg_omdb_movies.sql)*
+- *[tmdb_movies](https://github.com/paradime-io/paradime-dbt-movie-challenge/blob/main/models/sources/stg_tmdb_movies.sql)*
 - *data set name #3*
 - *data set name #4*
 
