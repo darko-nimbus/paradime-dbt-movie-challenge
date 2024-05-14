@@ -34,7 +34,9 @@ Extra Data Sources:
 
 ## Visualizations
 
-### 
+Movies published each year in the past 100 years.
+
+### Top 25 directors and Top 25 writers for gross revenue
 ![Top 25 directors and Top 25 writers for gross revenue](https://github.com/darko-nimbus/paradime-dbt-movie-challenge/blob/9b275d376a95615c732ad4e6ac424d897a5ea042/images/Top%2025%20directors%20and%20top%2025%20writers%20for%20gross%20revenue.png)
 
 ### 25 Movies with the Highest / Lowest ROI
