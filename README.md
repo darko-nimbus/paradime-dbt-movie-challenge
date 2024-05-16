@@ -53,13 +53,6 @@ Movies published each year in the past 100 years.
   <img src="https://github.com/darko-nimbus/paradime-dbt-movie-challenge/raw/9b275d376a95615c732ad4e6ac424d897a5ea042/images/25%20movies%20with%20the%20lowest%20ROI.png" alt="25 Movies with the Lowest ROI" width="45%"/>
 </p>
 
-- #### Insights
-
-### vizualization 3
-- #### Number of movies per Genre per Publication Year
-- #### Intro sentence to vizualization
-- #### 
-- #### Insights
 
 ## Conclusions
 Share a clear and concise conclusion of your findings!
